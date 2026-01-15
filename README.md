@@ -3,7 +3,7 @@ Hi, my name is Anish. <br>I make Wallpaper, Widgets, Icons 🎨<br>Engineer <br>
 
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/miliotizz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asubudhi123@outlook.com) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/miliotizz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: miliotizz01@gmail.com) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
